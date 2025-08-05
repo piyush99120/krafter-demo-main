@@ -496,7 +496,7 @@ const CareersPage: React.FC = () => {
               <div>
                 <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Get in touch</h2>
                 <p className="text-gray-400 leading-relaxed">
-                  Ready to join our team? We'd love to hear from you. Send us a message and we'll 
+                  Ready to join our team? We&apos;d love to hear from you. Send us a message and we&apos;ll 
                   respond as soon as possible.
                 </p>
               </div>
