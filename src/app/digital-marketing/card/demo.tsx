@@ -60,7 +60,6 @@ function DisclosureCard({  }: DisclosureCardProps) {
   };
 
   const transition = {
-    type: "spring",
     stiffness: 26.7,
     damping: 4.1,
     mass: 0.2,
