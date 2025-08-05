@@ -92,7 +92,7 @@ function Navbar({ className }: { className?: string }) {
 
         {/* Desktop Menu - hidden on small screens */}
         <div className="hidden md:flex flex-1 justify-center items-center space-x-4 lg:space-x-6">
-          <HoveredLink href="/about" className="hover:text-blue-500">
+          <HoveredLink href="" className="hover:text-blue-500">
             About Us
           </HoveredLink>
           <MenuItem setActive={setActive} active={active} item="IT Services">
@@ -192,7 +192,7 @@ function Navbar({ className }: { className?: string }) {
         <div className="md:hidden absolute top-full left-0 right-0 mt-1 mx-auto max-w-4xl bg-white shadow-lg rounded-md bg-white dark:bg-black border border-neutral-200 dark:border-neutral-700 z-50">
           <div className="flex flex-col gap-4 p-4">
             <Link
-              href="/about"
+              href=""
               className="flex items-center gap-2 px-3 py-2 rounded-md text-base font-medium text-neutral-700 dark:text-neutral-200 hover:bg-blue-100 dark:hover:bg-blue-900 hover:text-blue-600 dark:hover:text-blue-400 transition"
               onClick={() => setIsMobileMenuOpen(false)}
             >
