@@ -40,8 +40,8 @@ const ContactSection = () => {
                 Get in touch
               </h2>
               <p className="career-text-lg text-career-text-muted leading-relaxed">
-                Ready to join our team? We'd love to hear from you. Reach out and 
-                let's discuss how we can work together to create amazing digital experiences.
+                Ready to join our team? We&apos;d love to hear from you. Reach out and 
+                let&apos;s discuss how we can work together to create amazing digital experiences.
               </p>
             </div>
 
@@ -142,7 +142,7 @@ const ContactSection = () => {
                 <textarea
                   rows={4}
                   className="w-full px-4 py-3 bg-career-accent border border-career-accent rounded-md text-career-text placeholder-career-text-light focus:outline-none focus:ring-2 focus:ring-career-text-light focus:border-transparent transition-colors duration-300 resize-none"
-                  placeholder="Tell us about yourself and why you'd like to join our team..."
+                  placeholder="Tell us about yourself and why you&apos;d like to join our team..."
                 />
               </div>
               

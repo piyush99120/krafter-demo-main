@@ -400,7 +400,7 @@ const CareersPage: React.FC = () => {
                 bar higher with every project to create new challenges to stay on top of 
                 our craft. We value trust, freedom, passion, and warm and friendly 
                 relationships and enjoy our time together. If this resonates with your 
-                vision, let's chat about how we can work together. Get in touch today!
+                vision, let&apos;s chat about how we can work together. Get in touch today!
               </p>
             </motion.div>
           </div>
